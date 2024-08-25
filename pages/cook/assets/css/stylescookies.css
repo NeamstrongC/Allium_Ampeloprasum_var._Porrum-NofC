@@ -1,0 +1,58 @@
+ @import url('https://fonts.googleapis.com/css2?family=Pangolin&display=swap');
+
+
+*{
+	font-size: 1em;
+	font-family: 'Pangolin', cursive;
+	padding: 0px;
+	margin: 0px;
+}
+body{
+	width: 100%;
+	background-color: #77A1EC;
+}
+section{
+	max-width: 85%;
+	margin-left: 5%;
+}
+p{
+	padding: 0.6em;
+    border-radius: 8px;
+	border: 3px solid pink;
+}
+h1{
+	border:3px solid white;
+	border-radius: 8px;
+	text-align: center;
+	font-size: 2.2em;
+	text-decoration: underline;
+	color: red;
+}
+h3{
+	border:3px solid white;
+	text-decoration: underline;
+	color: blue;
+	font-size: 1.3em;
+	font-weight: bold;
+}
+span.tune{
+	border-radius: 6px;
+	font-weight: bold;
+	color: purple;
+	background-color: white;
+}
+#btncookies{
+	margin-left: 1.4em;
+	font-size: 1.5em;
+	color: black;
+	background-color: pink;
+	border-radius: 6px;
+	border:3px solid blue;
+	text-decoration: underline;
+	cursor: pointer;
+
+}
+#btncookies:hover{
+	color: green;
+	background-color: white;
+}
