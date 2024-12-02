@@ -29,6 +29,16 @@ p.orign{
 p.tittle{
 	color: white;
 }
+
+b.CHR{
+	font-size: 1.2em;
+	text-decoration-line: underline;
+	justify-content: center;
+	display: flex;
+	color: white;
+	background-color: red;
+	width: auto;
+}
 img.code{
 	margin: 8px;
 	border: 3px solid blue;
