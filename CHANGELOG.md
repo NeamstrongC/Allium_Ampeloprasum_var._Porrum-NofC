@@ -1,19 +1,61 @@
-ACTUALIZACION A- marzo 14 DEL AÑO 2025.
+# CHANGELOG
 
-Allium Apeloprasum Var. Porrum
+## [1.1.1] - 2025-04-06
 
-1. Cambio icono N por ICONO yellowicoN
+### Añadido
 
-2.Actualizacion de la frase del costado quote.  Y añadido el enlace respectivo para descargar el texto, libro.
+-   
+
+### Modificado
+
+- ACTUALIZACION DE ETIQUETAS GOOGLE TAG MANAGER DE GA4  
+
+### Corregido
+
+-
+  
+
+## [1.1.1] - 2025-03-23
+
+### Añadido
+
+-   Allium Apeloprasum Var. Porrum
 
 
-3. Correccion de enlaces a paginas Socialnetworks. FACEBOOK, INSTAGRAM, BLOGGER, YOUTUBE Y CONTACTO.
+-   Agregamos Licencia APACHE 2.0
+
+### Modificado
+
+-   Cambio icono N por ICONO yellowicoN
+
+-   Actualizacion de la frase del costado quote.  Y añadido el enlace respectivo para descargar el texto, libro.
 
 
-4.Actualizacion del ICON en BLOGGER yellowicoN
+-   Correccion de enlaces a paginas Socialnetworks. FACEBOOK, INSTAGRAM, BLOGGER, YOUTUBE Y CONTACTO.
 
 
-5.Actualizacion de pagina de CONTACTO:
- Numero de celular * 3003390578
+-   Actualizacion del ICON en BLOGGER yellowicoN
 
-6.Agregamos Licencia APACHE 2.0
+
+-   Actualizacion de pagina de CONTACTO:    Numero de celular * 3003390578
+
+### Corregido
+
+-
+
+
+-   
+
+## [1.1.0] - 2023-09-15
+
+### Añadido
+
+-   Funcionalidad de exportación de datos.
+
+### Corregido
+
+-  
+
+## [1.0.0] - 2023-08-01
+
+-   Lanzamiento inicial.
