@@ -1,5 +1,20 @@
 # CHANGELOG
 
+## [1.1.1] - 2025-05-07
+
+### Añadido
+
+-   
+
+### Modificado
+
+- ACTUALIZACION DE ETIQUETAS GOOGLE TAG MANAGER DE GA4  
+
+### Corregido
+
+-
+
+
 ## [1.1.1] - 2025-04-06
 
 ### Añadido
@@ -13,7 +28,6 @@
 ### Corregido
 
 -
-  
 
 ## [1.1.1] - 2025-03-23
 
