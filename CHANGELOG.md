@@ -1,5 +1,35 @@
 # CHANGELOG
 
+## [1.1.1] - 2025-05-09
+
+### Añadido
+
+-   
+
+### Modificado
+
+-   details of autor. a licence GNU GPLV3.0
+author 
+
+### Corregido
+
+-   
+
+
+## [1.1.1] - 2025-04-06
+
+### Añadido
+
+-   
+
+### Modificado
+
+- ACTUALIZACION DE ETIQUETAS GOOGLE TAG MANAGER DE GA4  
+
+### Corregido
+
+-
+
 ## [1.1.1] - 2025-05-07
 
 ### Añadido
