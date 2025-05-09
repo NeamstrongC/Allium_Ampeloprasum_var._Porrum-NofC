@@ -15,21 +15,6 @@ author
 
 -   
 
-
-## [1.1.1] - 2025-04-06
-
-### Añadido
-
--   
-
-### Modificado
-
-- ACTUALIZACION DE ETIQUETAS GOOGLE TAG MANAGER DE GA4  
-
-### Corregido
-
--
-
 ## [1.1.1] - 2025-05-07
 
 ### Añadido
@@ -45,6 +30,20 @@ author
 ### Corregido
 
 -   
+
+## [1.1.1] - 2025-05-06
+
+### Añadido
+
+-   
+
+### Modificado
+
+- ACTUALIZACION DE ETIQUETAS GOOGLE TAG MANAGER DE GA4  
+
+### Corregido
+
+-
 
 
 ## [1.1.1] - 2025-04-06
