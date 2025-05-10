@@ -2,6 +2,8 @@
 
 ## [1.1.1] - 2025-05-10
 
+-   ACTUALIZACION EN LINEA
+
 ### Añadido
 
 -   
@@ -15,6 +17,8 @@
 -   AÑADIDA Y ACTUALIZADA INFORMACION DE DERECHOS DE AUTOR LICENCIA GNU GPLV3.0    N de COLOMBIA - NeamstrongC. - Marlon Andres Vasquez Zea
 
 ## [1.1.1] - 2025-05-09
+
+-   ACTUALIZACION EN LINEA
 
 ### Añadido
 
@@ -30,6 +34,8 @@ author
 -   
 
 ## [1.1.1] - 2025-05-07
+
+-   ACTUALIZACION EN LINEA
 
 ### Añadido
 
@@ -47,6 +53,8 @@ author
 
 ## [1.1.1] - 2025-05-06
 
+-   ACTUALIZACION EN LINEA
+
 ### Añadido
 
 -   
@@ -62,6 +70,8 @@ author
 
 ## [1.1.1] - 2025-04-06
 
+-   ACTUALIZACION EN LINEA
+
 ### Añadido
 
 -   
@@ -75,6 +85,8 @@ author
 -
 
 ## [1.1.1] - 2025-03-23
+
+-   ACTUALIZACION EN LINEA
 
 ### Añadido
 
@@ -106,6 +118,8 @@ author
 -   
 
 ## [1.1.0] - 2023-09-15
+
+-   ACTUALIZACION EN LINEA
 
 ### Añadido
 
