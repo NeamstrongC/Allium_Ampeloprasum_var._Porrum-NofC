@@ -1,5 +1,23 @@
 # CHANGELOG
 
+## [1.1.1] - 2025-05-30
+
+-   ACTUALIZACION EN LINEA
+
+### Añadido
+
+-   
+
+### Modificado
+
+-   ESCALA 1.15em, FONT-SIZE PAGINA COOKIES.
+### Corregido
+
+- 
+###  Por Corregir
+
+-    
+
 ## [1.1.1] - 2025-05-29
 
 -   ACTUALIZACION EN LINEA
