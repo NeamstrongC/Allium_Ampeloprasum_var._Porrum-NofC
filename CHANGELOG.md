@@ -1,5 +1,25 @@
 # CHANGELOG
 
+## [1.1.1] - 2025-05-29
+
+-   ACTUALIZACION EN LINEA
+
+### Añadido
+
+-   
+
+### Modificado
+
+-   CONTRATO DE TERMINOS Y CONDICIONES. (COOKIES) N DE COLOMBIA.
+
+### Corregido
+
+-   ELIMINADA LICENCIA GPL GNU.
+
+###  Por Corregir
+
+-    
+
 ## [1.1.1] - 2025-05-10
 
 -   ACTUALIZACION EN LINEA
