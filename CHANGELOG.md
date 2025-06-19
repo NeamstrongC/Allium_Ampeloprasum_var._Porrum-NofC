@@ -1,5 +1,26 @@
 # CHANGELOG
 
+## [1.1.1] - 2025-06-19
+
+-   ACTUALIZACION EN LINEA
+
+### Añadido
+
+-   
+
+### Modificado
+
+-   FRASE DE EMIL ZATOPEK x REINAVALERA1960. <3
+
+### Corregido
+
+-
+ 
+###  Por Corregir
+
+-   CONTRATO DE TERMINOS Y CONDICIONES PAGINA (SaaS). 
+
+
 ## [1.1.1] - 2025-05-30
 
 -   ACTUALIZACION EN LINEA
@@ -11,9 +32,11 @@
 ### Modificado
 
 -   ESCALA 1.15em, FONT-SIZE PAGINA COOKIES.
+
 ### Corregido
 
-- 
+-
+ 
 ###  Por Corregir
 
 -    
