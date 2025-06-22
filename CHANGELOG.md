@@ -1,5 +1,26 @@
 # CHANGELOG
 
+## [1.1.1] - 2025-06-22
+
+-   ACTUALIZACION EN LINEA
+
+### Añadido
+
+-   
+
+### Modificado
+
+-   SCRIPTS PARA ENVIAR CORREO ELECTRÓNICO EN CONTACTO.
+
+### Corregido
+
+-
+ 
+###  Por Corregir
+
+-   CONTRATO DE TERMINOS Y CONDICIONES PAGINA (SaaS). 
+
+
 ## [1.1.1] - 2025-06-19
 
 -   ACTUALIZACION EN LINEA
