@@ -1,5 +1,26 @@
 # CHANGELOG
 
+## [1.1.1] - 2025-06-24
+
+-   ACTUALIZACION EN LINEA
+
+### Añadido
+
+-   
+
+### Modificado
+
+-   ACTUALIZADO NUMERO D CELULAR: +57 3208563547
+
+### Corregido
+
+-
+ 
+###  Por Corregir
+
+-   CONTRATO DE TERMINOS Y CONDICIONES PAGINA (SaaS). 
+
+
 ## [1.1.1] - 2025-06-22
 
 -   ACTUALIZACION EN LINEA
