@@ -45,6 +45,18 @@ h4.i{
     padding: 0.5em;
     font-size: 1.4em;
 }
+img.tune{
+	width: 2em;
+	height: 2em;
+	margin-top: 10px;
+	margin-left: 0;
+}
+a.freepik{
+	margin-bottom: 0;
+	border-radius: 8px;
+	background-color: white;
+	font-size: 0.6em;
+}
 
 
 /* CONTACT INFO */
