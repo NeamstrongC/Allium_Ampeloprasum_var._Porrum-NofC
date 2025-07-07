@@ -107,15 +107,9 @@ ul.icons{
 	border-radius: 8px;
 	border:3px solid white;
 }
-img.tune{
-  display:fixed;
 
-}
-li.tuneli{
-  display:none;
-
-}
 img.tune{
+  position: fixed;
 	width: 2em;
 	height: 2em;
 	margin-top: 10px;
