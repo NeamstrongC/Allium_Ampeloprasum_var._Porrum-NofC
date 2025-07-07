@@ -107,6 +107,10 @@ ul.icons{
 	border-radius: 8px;
 	border:3px solid white;
 }
+div.copy li{
+  display:none;
+
+}
 img.tune{
 	width: 2em;
 	height: 2em;
