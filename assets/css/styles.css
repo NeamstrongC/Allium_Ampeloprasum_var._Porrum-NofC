@@ -107,6 +107,10 @@ ul.icons{
 	border-radius: 8px;
 	border:3px solid white;
 }
+img.tune{
+  display:fixed;
+
+}
 li.tuneli{
   display:none;
 
