@@ -1,5 +1,25 @@
 # CHANGELOG
 
+## [1.1.1] - 2025-07-07
+
+-   ACTUALIZACION EN LINEA
+
+### Añadido
+
+-   ICONO PNG DE TUNE AÑADIDO A SECCIONES CONTACTO Y ALLIUM INICIAL.
+
+### Modificado
+
+-   
+
+### Corregido
+
+-
+ 
+###  Por Corregir
+
+-   CONTRATO DE TERMINOS Y CONDICIONES PAGINA (SaaS). 
+
 ## [1.1.1] - 2025-06-24
 
 -   ACTUALIZACION EN LINEA
@@ -121,6 +141,10 @@
 
 -   AÑADIDA Y ACTUALIZADA INFORMACION DE DERECHOS DE AUTOR LICENCIA GNU GPLV3.0    N de COLOMBIA - NeamstrongC. - Marlon Andres Vasquez Zea
 
+###  Por Corregir
+
+-    
+
 ## [1.1.1] - 2025-05-09
 
 -   ACTUALIZACION EN LINEA
@@ -137,6 +161,10 @@ author
 ### Corregido
 
 -   
+
+###  Por Corregir
+
+-
 
 ## [1.1.1] - 2025-05-07
 
@@ -156,6 +184,10 @@ author
 
 -   
 
+###  Por Corregir
+
+-   
+
 ## [1.1.1] - 2025-05-06
 
 -   ACTUALIZACION EN LINEA
@@ -169,6 +201,10 @@ author
 - ACTUALIZACION DE ETIQUETAS GOOGLE TAG MANAGER DE GA4  
 
 ### Corregido
+
+-
+
+###  Por Corregir
 
 -
 
@@ -188,6 +224,10 @@ author
 ### Corregido
 
 -
+
+###  Por Corregir
+
+-   
 
 ## [1.1.1] - 2025-03-23
 
@@ -219,8 +259,10 @@ author
 
 -
 
+###  Por Corregir
 
--   
+-
+
 
 ## [1.1.0] - 2023-09-15
 
@@ -233,6 +275,10 @@ author
 ### Corregido
 
 -  
+
+###  Por Corregir
+
+-
 
 ## [1.0.0] - 2023-08-01
 
