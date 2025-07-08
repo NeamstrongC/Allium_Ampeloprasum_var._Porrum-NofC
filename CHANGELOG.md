@@ -1,5 +1,27 @@
 # CHANGELOG
 
+## [1.1.1] - 2025-07-08
+
+-   ACTUALIZACION EN LINEA
+
+### Añadido
+
+-   
+
+### Modificado
+
+-   
+
+### Corregido
+
+-   CORRECCIÓN DE TABLERO UL>LI PLANETA TUNE.
+-   
+ 
+###  Por Corregir
+
+-   CONTRATO DE TERMINOS Y CONDICIONES PAGINA (SaaS). 
+
+
 ## [1.1.1] - 2025-07-07
 
 -   ACTUALIZACION EN LINEA
