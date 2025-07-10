@@ -1,5 +1,27 @@
 # CHANGELOG
 
+## [1.1.1] - 2025-07-10
+
+-   ACTUALIZACION EN LINEA
+
+### Añadido
+
+-   
+
+### Modificado
+
+-   
+
+### Corregido
+
+-    
+ 
+###  Por Corregir
+
+-   CONTRATO DE TERMINOS Y CONDICIONES PAGINA (SaaS).
+
+-   ICONO PLANETA TUNE > ENLACE A RUES E INFO EMPRESARIAL. N_DE_COLOMBIA.
+
 ## [1.1.1] - 2025-07-08
 
 -   ACTUALIZACION EN LINEA
