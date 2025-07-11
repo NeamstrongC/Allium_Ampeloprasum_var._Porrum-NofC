@@ -1,12 +1,12 @@
 # CHANGELOG
 
-## [1.1.1] - 2025-07-11
+## [1.1.2] - 2025-07-11
 
 -   ACTUALIZACION EN LINEA
 
 ### Añadido
 
--   
+-   ENLACE DE ICONO PLANETA AZUL A ElInforma: Empresas y Empresarios. VASQUEZ ZEA MARLON ANDRES - N_DE_COLOMBIA.
 
 ### Modificado
 
@@ -19,8 +19,6 @@
 ###  Por Corregir
 
 -   CONTRATO DE TERMINOS Y CONDICIONES PAGINA (SaaS).
-
--   ICONO PLANETA TUNE > ENLACE A RUES E INFO EMPRESARIAL. N_DE_COLOMBIA.
 
 ## [1.1.1] - 2025-07-10
 
