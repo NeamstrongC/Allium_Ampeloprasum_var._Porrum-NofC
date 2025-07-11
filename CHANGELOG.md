@@ -6,15 +6,16 @@
 
 ### Añadido
 
--   ENLACE DE ICONO PLANETA AZUL A ElInforma: Empresas y Empresarios. VASQUEZ ZEA MARLON ANDRES - N_DE_COLOMBIA.
+-   
 
 ### Modificado
 
--   
+-   FONDO FONDO CONTACTO A GRIS.
+-   ESCALA DE FUENTE.
 
 ### Corregido
 
--    
+-   ENLACE DE ICONO PLANETA AZUL A ElInforma: Empresas y Empresarios. VASQUEZ ZEA MARLON ANDRES - N_DE_COLOMBIA. IN ALL PAGES. 
  
 ###  Por Corregir
 
