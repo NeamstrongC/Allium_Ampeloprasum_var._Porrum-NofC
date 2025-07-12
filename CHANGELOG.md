@@ -1,5 +1,27 @@
 # CHANGELOG
 
+## [1.1.2] - 2025-07-12
+
+-   ACTUALIZACION EN LINEA
+
+### Añadido
+
+-   
+
+### Modificado
+
+-   SINCRONIZACION DE COLORES ALLIUM - COOKIES - CONTACTO.
+-   ACTUALIZACION ESCALA DE FUENTE. COOKIES 
+
+### Corregido
+
+-   
+
+###  Por Corregir
+
+-   CONTRATO DE TERMINOS Y CONDICIONES PAGINA (SaaS).
+
+
 ## [1.1.2] - 2025-07-11
 
 -   ACTUALIZACION EN LINEA
