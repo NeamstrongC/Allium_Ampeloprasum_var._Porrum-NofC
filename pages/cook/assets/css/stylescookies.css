@@ -2,14 +2,15 @@
 
 
 *{
-	font-size: 1.15em;
+	font-size: 1.3em;
 	font-family: 'Pangolin', cursive;
 	padding: 0px;
 	margin: 0px;
 }
 body{
+	color: white;
 	width: 100%;
-	background-color: #77A1EC;
+	background-color: gray;
 }
 section{
 	max-width: 85%;
@@ -21,12 +22,13 @@ p{
 	border: 3px solid pink;
 }
 h1{
-	border:3px solid white;
+	background-color: white;
+	border:3px solid pink;
 	border-radius: 8px;
 	text-align: center;
 	font-size: 2.2em;
 	text-decoration: underline;
-	color: red;
+	color: #007FFF;
 }
 h3{
 	border:3px solid white;
@@ -45,7 +47,7 @@ span.tune{
 	margin-left: 1.4em;
 	font-size: 1.5em;
 	color: black;
-	background-color: pink;
+	background-color: white;
 	border-radius: 6px;
 	border:3px solid blue;
 	text-decoration: underline;
