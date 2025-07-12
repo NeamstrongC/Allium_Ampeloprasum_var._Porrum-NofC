@@ -9,7 +9,7 @@
 }
 body{
 	color: white;
-	width: 100%;
+	width: 80%;
 	background-color: gray;
 }
 section{
@@ -26,7 +26,7 @@ h1{
 	border:3px solid pink;
 	border-radius: 8px;
 	text-align: center;
-	font-size: 1em;
+	font-size: 2.2em;
 	text-decoration: underline;
 	color: #007FFF;
 }
