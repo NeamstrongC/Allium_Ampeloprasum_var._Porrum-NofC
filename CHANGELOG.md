@@ -1,4 +1,23 @@
 # CHANGELOG
+## [1.1.2] - 2025-07-13
+
+-   ACTUALIZACION EN LINEA
+
+### Añadido
+
+-   
+
+### Modificado
+
+-   
+
+### Corregido
+
+-   
+
+###  Por Corregir
+
+-   CONTRATO DE TERMINOS Y CONDICIONES PAGINA (SaaS).
 
 ## [1.1.2] - 2025-07-12
 
@@ -20,7 +39,6 @@
 ###  Por Corregir
 
 -   CONTRATO DE TERMINOS Y CONDICIONES PAGINA (SaaS).
-
 
 ## [1.1.2] - 2025-07-11
 
