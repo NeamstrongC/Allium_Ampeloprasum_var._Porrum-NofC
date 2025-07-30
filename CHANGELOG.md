@@ -1,26 +1,33 @@
 # CHANGELOG
 
-## [1.2.1] - 2025-07-25
+## [1.1.2] - 2025-07-30
 
 -   ACTUALIZACION EN LINEA
 
 ### Añadido
 
--   CONEXION A WEBPAGE: SARABATALLAESCRITORA. EXITO
+-   ENLACE CONEXION A SARABATALLAESCRITORA.
+
+-   AÑADIMOS SOPORTE N - PAGINAS WEB.
+
+-   INICIO DE PRUEBAS WEB PARA LANZAMIENTO.
 
 ### Modificado
 
 -   
-
 ### Corregido
 
 -   
 
 ###  Por Corregir
 
+-   PAGINA DOCUMENTO DE PRIVACIDAD Y TÉRMINOS.
+
+-   SECCION DE MEDELLIN - BOGOTA. CONTACTO
+
 -   CONTRATO DE TERMINOS Y CONDICIONES PAGINA (SaaS).
 
-## [1.1.2] - 2025-07-12
+## [1.1.2] - 2025-07-15
 
 -   ACTUALIZACION EN LINEA
 
@@ -30,34 +37,11 @@
 
 ### Modificado
 
--   SINCRONIZACION DE COLORES ALLIUM - COOKIES - CONTACTO.
--   ACTUALIZACION ESCALA DE FUENTE. COOKIES 
-
+-   
 ### Corregido
 
 -   
 
-###  Por Corregir
-
--   CONTRATO DE TERMINOS Y CONDICIONES PAGINA (SaaS).
-
-## [1.1.2] - 2025-07-11
-
--   ACTUALIZACION EN LINEA
-
-### Añadido
-
--   
-
-### Modificado
-
--   FONDO FONDO CONTACTO A GRIS.
--   ESCALA DE FUENTE.
-
-### Corregido
-
--   ENLACE DE ICONO PLANETA AZUL A ElInforma: Empresas y Empresarios. VASQUEZ ZEA MARLON ANDRES - N_DE_COLOMBIA. IN ALL PAGES. 
- 
 ###  Por Corregir
 
 -   CONTRATO DE TERMINOS Y CONDICIONES PAGINA (SaaS).
@@ -73,7 +57,6 @@
 ### Modificado
 
 -   
-
 ### Corregido
 
 -   
