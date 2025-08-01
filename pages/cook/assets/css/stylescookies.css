@@ -1,8 +1,8 @@
-@import url('https://fonts.googleapis.com/css2?family=Pangolin&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=Pangolin&display=swap');
 
 
 *{
-	font-size: 25px;
+	font-size: 1.18em;
 	font-family: 'Pangolin', cursive;
 	padding: 0px;
 	margin: 0px;
@@ -15,6 +15,11 @@ body{
 section{
 	max-width: 85%;
 	margin-left: 5%;
+}
+span.cook{
+	margin: 2px;
+	text-decoration: underline;
+	color: pink;
 }
 p{
 	padding: 0.6em;
@@ -42,6 +47,11 @@ span.tune{
 	font-weight: bold;
 	color: purple;
 	background-color: white;
+}
+span.CORP{
+	background-color: white;
+	border: 2px solid pink;
+	color: #007FFF;
 }
 #btncookies{
 	margin-left: 1.4em;
