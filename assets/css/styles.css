@@ -6,7 +6,7 @@
 
 
 *{
-	font-size: 25px;
+	font-size: 1.12em;
 	font-family: 'Pangolin', cursive;
 	padding: 0px;
 	margin: 0px;
@@ -31,7 +31,6 @@ p.orign{
 p.tittle{
 	color: white;
 }
-
 
 img.code{
 	margin: 8px;
@@ -125,8 +124,12 @@ a.freepik{
 	background-color: white;
 	font-size: 0.6em;
 }
-
+b.id{
+	color:steelblue;
+	text-decoration: underline;
+}
 div.in-flex{
+	margin-top: 20px;
 	flex: 1;
 	padding: 25px;
 	min-width: 250px;
@@ -173,6 +176,7 @@ b.mom{
 b.nden{
 	color: blue;
 }
+/*COOKIES-START*/
 
 .fondo-aviso-cookies{
 	display: none;
@@ -250,6 +254,7 @@ b.nden{
 .aviso-cookies .enlace:hover{
 	text-decoration: underline;
 }
+/*COOKIES-END*/
 
 /*RESPONSIVE START*/
 
