@@ -1,5 +1,32 @@
 # CHANGELOG
 
+## [1.2.3] - 2025-08-20
+
+-   ACTUALIZACION EN LINEA
+
+### Añadido
+
+-   CONEXIÓN A COOKIES EN AVISO. ALLIUM DESDE mYNenlaces
+Y ACTUALIZACIÓN.
+
+-   
+
+### Modificado
+
+-   
+
+### Corregido
+
+-   
+
+###  Por Corregir
+
+-   CONTRATO DE TERMINOS Y CONDICIONES PAGINA (SaaS, ToC).
+
+-   BOTÓN DE ACCESO FACIL A TÉRMINOS Y CONDICIONES.
+
+-   NOTIFICACIÓN DE TERMINOS Y CONDICIONES.
+
 ## [1.2.2] - 2025-08-02
 
 -   ACTUALIZACION EN LINEA
