@@ -2,7 +2,6 @@
 
 
 *{
-	font-size: 1.18em;
 	font-family: 'Pangolin', cursive;
 	padding: 0px;
 	margin: 0px;
@@ -22,9 +21,9 @@ span.cook{
 	color: pink;
 }
 p{
+	font-size: 1.1em;
 	padding: 0.6em;
     border-radius: 8px;
-	border: 3px solid pink;
 }
 h1{
 	background-color: white;
