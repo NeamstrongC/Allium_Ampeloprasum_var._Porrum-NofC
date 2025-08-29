@@ -6,7 +6,7 @@
 
 
 *{
-	font-size: 1.12em;
+	font-size: 1em;
 	font-family: 'Pangolin', cursive;
 	padding: 0px;
 	margin: 0px;
@@ -43,7 +43,6 @@ li.redes{
 	margin-top: 5px;
 		display: inline-flex;
 		align-items: center;
-		font-size: 24px;
 		background-color: blue;
 		color: white;
 	}
@@ -61,7 +60,6 @@ color: black;
 	font-size: 0.8em;
 }
 b.datc{
-	font-size: 0.800em;
 	color: black;
 }
 span.dev{		
@@ -82,7 +80,6 @@ a.artist:hover{
 }
 b.artist2{
 	color: blue;
-	font-size: 0.7em;
 }
 b.number{
 	color: white;
@@ -163,7 +160,6 @@ div#lokillo{
 }
 div#lokillo h1{
 	color: blue;
-	font-size: 2em;
 }
 b.mom{
 	padding: 2px;
@@ -171,7 +167,6 @@ b.mom{
 	border-radius: 4px;
 	color: white;
 	background-color: #8E5E72;
-	font-size: 1.7em;
 }
 b.nden{
 	color: blue;
@@ -257,7 +252,6 @@ b.nden{
 /*COOKIES-END*/
 
 /*RESPONSIVE START*/
-
 @media screen and (max-width: 435px){
 	.aviso-cookies{
 	display: none;
@@ -282,8 +276,12 @@ b.nden{
 	border-radius: 4px;
 	color: white;
 	background-color: #444DDE;
-	font-size: 1.1em;
 }
 }
 
+@media screen and (min-width: 800px){
+     body{
+		font-size: 1.6em;
+	 }
+}
 /*RESPONSIVE END*/
