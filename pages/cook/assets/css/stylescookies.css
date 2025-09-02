@@ -2,6 +2,7 @@
 
 
 *{
+	font-size: 1.1em;
 	font-family: 'Pangolin', cursive;
 	padding: 0px;
 	margin: 0px;
@@ -11,36 +12,53 @@ body{
 	width: 80%;
 	background-color: gray;
 }
-section{
-	max-width: 85%;
-	margin-left: 5%;
-}
-span.cook{
-	margin: 2px;
-	text-decoration: underline;
-	color: pink;
-}
-p{
-	font-size: 1.1em;
-	padding: 0.6em;
-    border-radius: 8px;
-}
-h1{
+h1.tta{
+	font-size: 1.6em;
 	background-color: white;
 	border:3px solid pink;
 	border-radius: 8px;
 	text-align: center;
-	font-size: 1.2em;
 	text-decoration: underline;
 	color: #007FFF;
 }
-h3{
-	border:3px solid white;
+h2{
 	text-decoration: underline;
+	font-size: 1.5em;
+	margin-top: 1.35em;
+}
+h3.subt{
+	margin-top: 0.5em;
+	font-size: 1.4em;
+	text-decoration: none;
 	color: blue;
-	font-size: 1.3em;
 	font-weight: bold;
 }
+section{
+	max-width: 90%;
+	margin-left: 5%;
+}
+a{
+	color: turquoise;
+}
+a:hover{
+	color: red;
+}
+b.en3{
+	text-decoration: underline;
+}
+span.cook{
+	font-size: 1.2em;
+	background-color: wheat;
+	margin: 2px;
+	text-decoration: underline;
+	color: blue;
+}
+p.main{
+	margin-top: 0.4em;
+}
+ul li.nu3{
+	margin-left: 2%;
+}	
 span.tune{
 	border-radius: 6px;
 	font-weight: bold;
