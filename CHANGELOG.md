@@ -1,5 +1,33 @@
 # CHANGELOG
 
+## [1.3.1] - 2025-09-9
+
+-   ACTUALIZACION EN LINEA
+
+### Añadido
+
+-   
+
+### Modificado
+
+-   FRASE DEL COSTADO INSPIRACIONAL X Marguerite Yourcenar "Todos nos transformaríamos si nos atreviéramos a ser lo que somos".
+
+### Corregido
+
+-   
+
+###  Por Corregir
+
+-   COMPLEMENTAR DOCUMENTO DE POLÍTICA DE PRIVACIDAD: COOKIES (PoP)
+
+-   MENSAJE PROGRAMADO A EMAIL T&C POP (COOKIES).
+
+-   TAMAÑO Y VISUALIZACIÓN RESPONSIVA DESCUBIERTA EN MyNenlaces con COOKIES. (BANNER) 
+
+-   BOTÓN PARA RECHAZAR COOKIES.
+
+-   BASES DE CORREO PARA SUSCRIPTORES.
+-   
 ## [1.3.1] - 2025-09-4
 
 -   ACTUALIZACION EN LINEA
