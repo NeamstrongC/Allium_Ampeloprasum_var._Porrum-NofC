@@ -58,12 +58,37 @@ p.main{
 }
 ul li.nu3{
 	margin-left: 2%;
+}
+ul li.nu3pop{
+	margin-top: 20px;
+	text-decoration: underline;
+	margin-left: 2%;
 }	
+p.nu3pop{
+	margin-left: 2%;
+}
 span.tune{
 	border-radius: 6px;
 	font-weight: bold;
 	color: purple;
 	background-color: white;
+}
+span.date{
+	font-weight: bold;
+	color: black;
+}
+a.datee{
+	color: black;
+}
+span.SUBTITTLE{
+	color: #F5F5F5;
+}
+span.mail{
+	font-weight: bold;
+}
+span.mailu{
+	text-decoration: underline;
+	background-color: blue;
 }
 span.CORP{
 	background-color: white;
