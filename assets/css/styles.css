@@ -15,6 +15,10 @@ body{
 	width: 100%;
 background-color:grey; 
 }
+h4{
+	text-align: center;
+	color: white;
+}
 section.home{
 	width: 100%;
 	display: flex;
@@ -23,6 +27,13 @@ section.home{
 span#tittle{
 	color: white;
 	background-color: #0014A8;
+}
+h1{
+	margin: 5px;
+	margin-top: 1em;
+}
+p{
+	margin: 5px;
 }
 p.orign{
 	border: 6px solid pink;
@@ -138,7 +149,9 @@ div.in-flex{
 	margin: 20px;
 	margin-bottom: 0px;
 }
-
+li.nn{
+	margin-top: 2em;
+}
 .in-flex div{
 	background-color: pink;
 	border:6px solid blue;
