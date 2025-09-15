@@ -35,7 +35,8 @@ h3.subt{
 	font-weight: bold;
 }
 section{
-	max-width: 90%;
+	margin-bottom: 1.5em;
+	max-width: 100%;
 	margin-left: 5%;
 }
 a{
@@ -116,7 +117,7 @@ span.CORP{
 	color: #007FFF;
 }
 #btncookies{
-	margin-left: 90%;
+	margin-left: 70%;
 	font-size: 1.5em;
 	color: black;
 	background-color: white;
