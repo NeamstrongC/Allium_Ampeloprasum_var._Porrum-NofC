@@ -149,6 +149,18 @@ div.in-flex{
 	margin: 20px;
 	margin-bottom: 0px;
 }
+a.POP{
+	cursor: pointer;
+	background-color: black;
+	color: #F2F3F4;
+}
+a.POP:hover{
+	color: #595959;
+	padding: 1px;
+	background-color: white;
+	border:3px solid black;
+	border-radius: 3px;
+}
 li.nn{
 	margin-top: 2em;
 }
