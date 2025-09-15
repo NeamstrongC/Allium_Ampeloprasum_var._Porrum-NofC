@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @neamstrong
+- 👋 Hi, I’m @NeamstrongC
 - 👀 I’m interested in Science, Technology & Engineering.  -    the projection of a colombia N love
 - 🌱 I’m currently learning about problems and knots that interpose an obstacle between the purpose and its correct application. We study everything relatively alive, about past, present and future solutions and changes. 
 - 💞️ I’m looking to collaborate on immortality
-- 📫 How to reach me: VISIT LINK... linktr.ee/neastronaut
-- 😄 Pronouns: @NeamstrongC  @NeptuneAstronaut  @cdm_n3dev
+- 📫 How to reach me: VISIT LINK... 
+- 😄 Pronouns: N 
 - ⚡ Fun fact: my Name is MARLON
 
 <!---
