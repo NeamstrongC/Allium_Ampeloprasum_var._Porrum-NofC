@@ -12,8 +12,9 @@
 	margin: 0px;
 }
 body{
+	display: none;
 	width: 100%;
-background-color:grey; 
+	background-color:grey; 
 }
 h4{
 	text-align: center;
@@ -311,3 +312,4 @@ b.nden{
 	 }
 }
 /*RESPONSIVE END*/
+
