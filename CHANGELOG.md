@@ -3,6 +3,7 @@
 ## [2.0.1] - 2025-09-17
 
 -   ACTUALIZACION EN LINEA.
+-   TEMPORAL DISCONNECTED.
 
 ### Añadido
 
@@ -17,6 +18,8 @@
 -   
 
 ###  Por Corregir
+
+-   ACTUALIZACIÓN DE LEYES DE PROTECCIÓN DE DATOS.
 
 -   CAMBIO DE ENLACE LYNKTR.EE X (MyNenlaces). 
 
