@@ -4,7 +4,7 @@
 
 -   ACTUALIZACION EN LINEA.
 
--   ACTIVO N.
+-   DESACTIVO N.
 
 ### Añadido
 
