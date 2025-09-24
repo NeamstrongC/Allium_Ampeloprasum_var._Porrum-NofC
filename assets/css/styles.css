@@ -12,6 +12,7 @@
 	margin: 0px;
 }
 body{
+	display:none;
 	width: 100%;
 	background-color:grey; 
 }
@@ -311,5 +312,6 @@ b.nden{
 	 }
 }
 /*RESPONSIVE END*/
+
 
 
