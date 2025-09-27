@@ -43,8 +43,9 @@ a{
 	color: turquoise;
 }
 a:hover{
-	color: red;
+	color: pink;
 }
+
 b.en3{
 	text-decoration: underline;
 }
@@ -64,11 +65,26 @@ h2.main{
 	margin-bottom: 1em;
 	text-align: center;
 }
-ul{
-	margin-bottom: 2em;
+h2.maine{
+	margin-bottom: 1em;
+	text-align: left;
+}
+ul, li{
+	font-size: 1em;
+	margin-top: 0.7em;
+}
+span.infode{
+	color: black;
+	font-weight: bold;
+}
+li.mini{
+	margin-left: 4%;
+}
+span.country{
+	color: yellow;
 }
 ul li.nu3{
-	margin-bottom: 0.5em;
+	margin-bottom: 1.2em;
 	margin-left: 2%;
 }
 ul li.nu3pop{
@@ -76,6 +92,18 @@ ul li.nu3pop{
 	text-decoration: underline;
 	margin-left: 2%;
 }	
+a.lang{
+	color: black;
+}
+a.lang:hover{
+	color: white;
+}
+button.dwl{
+	float: right;
+}
+button.dwl:hover{
+	background-color: grey;
+}
 p.nu3pop{
 	margin-left: 2%;
 }
