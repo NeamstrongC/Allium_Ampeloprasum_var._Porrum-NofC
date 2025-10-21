@@ -1,6 +1,44 @@
 # CHANGELOG
 
-## [2.0.1] - 2025-10-01
+## [2.0.3] - 2025-10-21
+
+-   ACTUALIZACION EN LINEA.
+
+### Añadido
+
+-   
+
+### Modificado
+
+-   AVISO COOKIES (SCRIPT INACTIVO) MANTENIMIENTO SIN DESVISUALIZACION DE PÁGINA.
+
+-   TÉRMINOS Y CONDICIONES (T&C), (PoP) EN MANTENIMIENTO.
+
+### Corregido
+
+-   
+
+###  Por Corregir
+
+-   ADD Aviso Legal (o Información Legal), Política de Cookies, Términos y Condiciones de Contratación (o Condiciones Generales de Uso).
+
+-   DESCARGAR DOCUMENTOS. pdf IN SPANISH x TERMLY.IO
+
+-   ENLACES A HREF DE PÁGINA DE COOKIES. N
+
+-   CAMBIO DE ENLACE LYNKTR.EE X (MyNenlaces). 
+
+-   CONEXIONES A PÁGINAS N DE COLOMBIA CON t&c, pOp.
+
+-   DISEÑO RESPOSIVE EN SCROOL A COOKIES PARA VOLVER.
+
+-   TAMAÑO Y VISUALIZACIÓN RESPONSIVA DESCUBIERTA EN MyNenlaces con COOKIES. (BANNER) 
+
+-   BOTÓN PARA RECHAZAR COOKIES.
+
+-   BASES DE CORREO PARA SUSCRIPTORES.
+
+## [2.0.1] - 2025-10-11
 
 -   ACTUALIZACION EN LINEA.
 
@@ -14,11 +52,131 @@
 
 ### Corregido
 
--   
+-   PRIVACY POLICY PoP: “N DE COLOMBIA”.: ENLACES A HREF.
+
+-   ACTUALIZACIÓN DE LEYES DE PROTECCIÓN DE DATOS.
 
 ###  Por Corregir
 
--   DESCARGAR DOCUMENTOS. pdf IN SPANISH
+-   ADD Aviso Legal (o Información Legal), Política de Cookies, Términos y Condiciones de Contratación (o Condiciones Generales de Uso).
+
+-   DESCARGAR DOCUMENTOS. pdf IN SPANISH x TERMLY.IO
+
+-   ENLACES A HREF DE PÁGINA DE COOKIES. N
+
+-   CAMBIO DE ENLACE LYNKTR.EE X (MyNenlaces). 
+
+-   CONEXIONES A PÁGINAS N DE COLOMBIA CON t&c, pOp.
+
+-   DISEÑO RESPOSIVE EN SCROOL A COOKIES PARA VOLVER.
+
+-   TAMAÑO Y VISUALIZACIÓN RESPONSIVA DESCUBIERTA EN MyNenlaces con COOKIES. (BANNER) 
+
+-   BOTÓN PARA RECHAZAR COOKIES.
+
+-   BASES DE CORREO PARA SUSCRIPTORES.
+
+## [2.0.1] - 2025-10-07
+
+-   ACTUALIZACION EN LINEA.
+
+### Añadido
+
+-   
+
+### Modificado
+
+-   FORMATO DE HORA DE ACTUALIZACIÓN: 24h
+
+-   (cdmneptuneow@) hotmail: QUESTIONS  -   proton: EXERCISE YOUR RIGHTS, data subject access request, Appeals
+
+### Corregido
+
+-    
+
+###  Por Corregir
+
+-   ADD Aviso Legal (o Información Legal), Política de Cookies, Términos y Condiciones de Contratación (o Condiciones Generales de Uso).
+
+-   DESCARGAR DOCUMENTOS. pdf IN SPANISH x TERMLY.IO
+
+-   ENLACES A HREF DE PÁGINA DE COOKIES. N
+
+-   ACTUALIZACIÓN DE LEYES DE PROTECCIÓN DE DATOS.
+
+-   CAMBIO DE ENLACE LYNKTR.EE X (MyNenlaces). 
+
+-   CONEXIONES A PÁGINAS N DE COLOMBIA CON t&c, pOp.
+
+-   DISEÑO RESPOSIVE EN SCROOL A COOKIES PARA VOLVER.
+
+-   TAMAÑO Y VISUALIZACIÓN RESPONSIVA DESCUBIERTA EN MyNenlaces con COOKIES. (BANNER) 
+
+-   BOTÓN PARA RECHAZAR COOKIES.
+
+-   BASES DE CORREO PARA SUSCRIPTORES.
+
+## [2.0.1] - 2025-10-05
+
+-   ACTUALIZACION EN LINEA.
+
+-   MARA, DIOS NOS BENDIGA <3
+
+### Añadido
+
+-   
+
+### Modificado
+
+-   (cdmneptuneow@) hotmail: QUESTIONS proton: EXERCISE YOUR RIGHTS
+
+### Corregido
+
+-    
+
+###  Por Corregir
+
+-   ADD Aviso Legal (o Información Legal), Política de Cookies, Términos y Condiciones de Contratación (o Condiciones Generales de Uso).
+
+-   DESCARGAR DOCUMENTOS. pdf IN SPANISH x TERMLY.IO
+
+-   ENLACES A HREF DE PÁGINA DE COOKIES. N
+
+-   ACTUALIZACIÓN DE LEYES DE PROTECCIÓN DE DATOS.
+
+-   CAMBIO DE ENLACE LYNKTR.EE X (MyNenlaces). 
+
+-   CONEXIONES A PÁGINAS N DE COLOMBIA CON t&c, pOp.
+
+-   DISEÑO RESPOSIVE EN SCROOL A COOKIES PARA VOLVER.
+
+-   TAMAÑO Y VISUALIZACIÓN RESPONSIVA DESCUBIERTA EN MyNenlaces con COOKIES. (BANNER) 
+
+-   BOTÓN PARA RECHAZAR COOKIES.
+
+-   BASES DE CORREO PARA SUSCRIPTORES.
+
+## [2.0.1] - 2025-10-03
+
+-   ACTUALIZACION EN LINEA.
+
+### Añadido
+
+-   
+
+### Modificado
+
+-   DOCUMENTO DE POLÍTICA DE PRIVACIDAD N DE COLOMBIA - COOKIES x TERMLY.io ENGLISH&SPANISH
+
+### Corregido
+
+-    
+
+###  Por Corregir
+
+-   ADD Aviso Legal (o Información Legal), Política de Cookies, Términos y Condiciones de Contratación (o Condiciones Generales de Uso).
+
+-   DESCARGAR DOCUMENTOS. pdf IN SPANISH x TERMLY.IO
 
 -   ENLACES A HREF DE PÁGINA DE COOKIES. N
 
