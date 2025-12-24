@@ -13,7 +13,20 @@
 }
 body{
 	width: 100%;
-	background-color:grey; 
+background-color:grey; 
+}
+div.in-flex{
+	margin-top: 20px;
+	flex: 1;
+	padding: 25px;
+	min-width: 250px;
+}
+.in-flex:first-child{
+	flex: 2;
+	padding: 25px;
+	background-color: none;
+	margin: 20px;
+	margin-bottom: 0px;
 }
 h4{
 	text-align: center;
@@ -106,6 +119,19 @@ img.icons{
 	height: 1.9em;
     margin-top: 0.2em;
     margin-left: 0.5em;
+
+}
+#butonad{
+	cursor: pointer;
+	padding: 0.15em;
+	border: 2px solid pink;
+	font-weight: bold;
+	background-color: blue;
+	color: white;
+}
+#butonad:hover{
+background-color: white;
+color: blue;
 }
 img.iconst{
 	margin-top: 0.3em;
@@ -132,23 +158,18 @@ a.freepik{
 	background-color: white;
 	font-size: 0.6em;
 }
+a.adhesivashop{
+	padding: 5px;
+	border-radius: 8pxs;
+	font-weight: bold;
+	color: white;
+	background-color: blue;
+}
 b.id{
 	color:steelblue;
 	text-decoration: underline;
 }
-div.in-flex{
-	margin-top: 20px;
-	flex: 1;
-	padding: 25px;
-	min-width: 250px;
-}
-.in-flex:first-child{
-	flex: 2;
-	padding: 25px;
-	background-color: none;
-	margin: 20px;
-	margin-bottom: 0px;
-}
+
 a.POP{
 	cursor: pointer;
 	background-color: black;
@@ -196,6 +217,7 @@ b.mom{
 b.nden{
 	color: blue;
 }
+
 /*COOKIES-START*/
 
 .fondo-aviso-cookies{
