@@ -1,5 +1,43 @@
 # CHANGELOG
 
+## [2.1.1] - 2026-01-03
+
+-   ACTUALIZACION EN LINEA.
+
+### Añadido
+
+-   
+
+### Modificado
+
+-   COPYRIGHT 2026
+
+### Corregido
+
+-   
+
+###  Por Corregir
+
+-   AUTOMATIZACIÓN DE CORREOS
+
+-   ARCHIVOS WORD, PDF. PRIVACY POLICE ENGLISH
+
+-   ADD Aviso Legal (o Información Legal), Política de Cookies, Términos y Condiciones de Contratación (o Condiciones Generales de Uso).
+
+-   ENLACES A HREF DE PÁGINA DE COOKIES. N
+
+-   CAMBIO DE ENLACE LYNKTR.EE X (MyNenlaces). 
+
+-   CONEXIONES A PÁGINAS N DE COLOMBIA CON t&c, pOp.
+
+-   DISEÑO RESPOSIVE EN SCROOL A COOKIES PARA VOLVER.
+
+-   TAMAÑO Y VISUALIZACIÓN RESPONSIVA DESCUBIERTA EN MyNenlaces con COOKIES. (BANNER) 
+
+-   BOTÓN PARA RECHAZAR COOKIES.
+
+-   BASES DE CORREO PARA SUSCRIPTORES.
+
 ## [2.1.1] - 2025-12-23
 
 -   ACTUALIZACION EN LINEA.
