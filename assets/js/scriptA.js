@@ -8,8 +8,8 @@ document.addEventListener('DOMContentLoaded', function () {
     if (boton) {
         boton.addEventListener('click', function () {
             Swal.fire({
-                title: '¡GRACIAS :)!',
-                text: 'Estamos trabajando para tener N sección en funcionamiento.',
+                title: '¡N SERVERS!',
+                text: 'En este momento estamos trabajando para tener lista está y otras secciones N, junto con los terminos y condiciones + las politicas de privacidad.',
                 icon: 'success',
                 confirmButtonText: 'Entendido',
                 // Puedes agregar más opciones aquí
