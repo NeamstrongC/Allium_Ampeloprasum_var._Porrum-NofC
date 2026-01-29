@@ -1,5 +1,89 @@
 # CHANGELOG
 
+## [2.3.0] - 2026-01-29
+
+-   ACTUALIZACION EN LINEA.
+
+### Añadido
+
+-   
+
+### Modificado
+
+-   target:_blank in download doc PoP.
+
+
+### Corregido
+
+-   
+
+###  Por Corregir
+
+-   LINK (AVISO COOKIES): 2.
+
+-   AUTOMATIZACIÓN DE CORREOS
+
+-   ADD Aviso Legal (o Información Legal), Política de Cookies, Términos y Condiciones de Contratación (o Condiciones Generales de Uso).
+
+-   ENLACES A HREF DE PÁGINA DE COOKIES. N
+
+-   CAMBIO DE ENLACE LYNKTR.EE X (MyNenlaces). 
+
+-   CONEXIONES A PÁGINAS N DE COLOMBIA CON t&c, pOp.
+
+-   DISEÑO RESPOSIVE EN SCROOL A COOKIES PARA VOLVER.
+
+-   TAMAÑO Y VISUALIZACIÓN RESPONSIVA DESCUBIERTA EN MyNenlaces con COOKIES. (BANNER) 
+
+-   BOTÓN PARA RECHAZAR COOKIES.
+
+-   BASES DE CORREO PARA SUSCRIPTORES.
+
+-   OPTIMIZACIÓN DE IMAGEBES PARA CARGA.
+
+## [2.3.0] - 2026-01-28
+
+-   ACTUALIZACION EN LINEA.
+
+### Añadido
+
+-   DOCUMENTOS DE POLICY PRIVACY (N DE COLOMBIA).pdf
+
+-   ARCHIVOS WORD, PDF. PRIVACY POLICE ENGLISH
+
+### Modificado
+
+-   
+
+
+### Corregido
+
+-   
+
+###  Por Corregir
+
+-   LINK (AVISO COOKIES): 2.
+
+-   AUTOMATIZACIÓN DE CORREOS
+
+-   ADD Aviso Legal (o Información Legal), Política de Cookies, Términos y Condiciones de Contratación (o Condiciones Generales de Uso).
+
+-   ENLACES A HREF DE PÁGINA DE COOKIES. N
+
+-   CAMBIO DE ENLACE LYNKTR.EE X (MyNenlaces). 
+
+-   CONEXIONES A PÁGINAS N DE COLOMBIA CON t&c, pOp.
+
+-   DISEÑO RESPOSIVE EN SCROOL A COOKIES PARA VOLVER.
+
+-   TAMAÑO Y VISUALIZACIÓN RESPONSIVA DESCUBIERTA EN MyNenlaces con COOKIES. (BANNER) 
+
+-   BOTÓN PARA RECHAZAR COOKIES.
+
+-   BASES DE CORREO PARA SUSCRIPTORES.
+
+-   OPTIMIZACIÓN DE IMAGEBES PARA CARGA.
+
 ## [2.2.1] - 2026-01-09
 
 -   ACTUALIZACION EN LINEA.
