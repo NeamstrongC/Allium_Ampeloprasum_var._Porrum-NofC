@@ -9,7 +9,7 @@
 }
 body{
 	color: white;
-	width: 85%;
+	width: 95%;
 	background-color: gray;
 }
 h1.tta{
@@ -93,9 +93,12 @@ ul li.nu3pop{
 	margin-left: 2%;
 }
 button.dwl{
+	margin-bottom: 1em;
+	margin-top: 1em;
 	margin-left: 1em;
 }
 a.lang{
+	font-size: 0.70em;
 	color: black;
 }
 a.lang:hover{
