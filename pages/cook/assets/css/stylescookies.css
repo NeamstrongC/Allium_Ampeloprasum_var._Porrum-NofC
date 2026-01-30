@@ -2,28 +2,28 @@
 
 
 *{
-	font-size: 1.1em;
 	font-family: 'Pangolin', cursive;
 	padding: 0px;
 	margin: 0px;
 }
 body{
+	font-size: 1.3em;
 	color: white;
-	width: 95%;
+	width: 90%;
 	background-color: gray;
 }
 h1.tta{
 	margin-top: 0.80em;
-	font-size: 2em;
-	background-color: white;
+	font-size: 1.6em;
+	background-color: gray;
 	border:3px solid pink;
 	border-radius: 8px;
 	text-align: center;
 	text-decoration: underline;
-	color: #007FFF;
+	text-decoration-color: pink;
+	color: white;
 }
 h2{
-	text-decoration: underline;
 	font-size: 1.7em;
 	margin-top: 1.35em;
 }
@@ -62,6 +62,9 @@ span.cook{
 	margin-bottom: 2em;
 }
 h2.main{
+	text-decoration: underline;
+	text-decoration-color: blue; 
+	color: white;
 	margin-bottom: 1em;
 	text-align: center;
 }
@@ -93,16 +96,24 @@ ul li.nu3pop{
 	margin-left: 2%;
 }
 button.dwl{
-	margin-bottom: 1em;
-	margin-top: 1em;
+	float: right;
+	font-size: 0.90em;
+	cursor: pointer;
+	background-color: black;
+	color: aqua;
+	padding: 15px 30px;
+	margin-bottom: 0.35em;
+	margin-top: 0.5em;
 	margin-left: 1em;
 }
+button.dwl:hover{
+	color: wheat;
+}
 a.lang{
-	font-size: 0.70em;
-	color: black;
+	color: white;
 }
 a.lang:hover{
-	color: white;
+	color: pink;
 }
 ul li.nu3F{
 	color: wheat;
@@ -116,9 +127,6 @@ ul li.nu3FC{
 	color: blue;
 	margin-bottom: 1.2em;
 	margin-left: 2%;
-}
-button.dwl{
-	float: right;
 }
 button.dwl:hover{
 	background-color: grey;
@@ -181,3 +189,14 @@ table{
 	color: green;
 	background-color: white;
 }
+/*RESPONSIVE START*/
+@media screen and (max-width: 536px){
+	body{
+		font-size: 0.80em;
+	}
+	button.dwl{
+		font-size: 0.55em;
+		padding: 8px 15px;
+	}
+}
+/*RESPONSIVE END*/
