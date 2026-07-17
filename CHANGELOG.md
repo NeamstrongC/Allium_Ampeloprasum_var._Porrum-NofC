@@ -1,5 +1,265 @@
 # CHANGELOG
 
+## [3.0.0] - 2026-07-17
+
+-   ACTUALIZACION EN LINEA. :)
+
+-   LA VAMOS A VOLVER FOTÓN.
+
+### Añadido
+
+-   
+
+### Modificado
+
+-   Unificación de scripts principales (scriptA.js):
+
+-   Eliminación del bloqueo de carga infinita (Loop de salida):
+
+-   Optimización del ciclo de vida del Preloader:
+
+-   Implementación de temporizador de contingencia acortado:
+
+-   Corrección de referencias de enrutamiento relativo: Se identificó y corrigió el fallo de carga (Error 404) en la sección de Medellín modificando los niveles de profundidad de las rutas
+
+-   Estandarización y modularización del CSS: Se reorganizó y limpió el archivo de estilos de la nueva sección por bloques lógicos
+
+### Corregido
+
+-   OPTIMIZACIÓN DE IMAGENES CON SQUOOSH: assets/images/----
+
+###  Por Corregir
+
+-   LINK (AVISO COOKIES): 2.
+
+-   AUTOMATIZACIÓN DE CORREOS
+
+-   ADD Aviso Legal (o Información Legal), Política de Cookies, Términos y Condiciones de Contratación (o Condiciones Generales de Uso).
+
+-   ENLACES A HREF DE PÁGINA DE COOKIES. N
+
+-   CAMBIO DE ENLACE LYNKTR.EE X (MyNenlaces). 
+
+-   CONEXIONES A PÁGINAS N DE COLOMBIA CON t&c, pOp.
+
+-   DISEÑO RESPOSIVE EN SCROOL A COOKIES PARA VOLVER.
+
+-   TAMAÑO Y VISUALIZACIÓN RESPONSIVA DESCUBIERTA EN MyNenlaces con COOKIES. (BANNER) 
+
+-   BOTÓN PARA RECHAZAR COOKIES.
+
+-   BASES DE CORREO PARA SUSCRIPTORES.
+
+-   FORMULARIO DE CONTACTO SSFV.
+
+## [3.0.0] - 2026-07-16
+
+-   ACTUALIZACION EN LINEA. :)
+
+### Añadido
+
+-   
+
+### Modificado
+
+-    
+
+### Corregido
+
+-   
+
+###  Por Corregir
+
+-   LINK (AVISO COOKIES): 2.
+
+-   AUTOMATIZACIÓN DE CORREOS
+
+-   ADD Aviso Legal (o Información Legal), Política de Cookies, Términos y Condiciones de Contratación (o Condiciones Generales de Uso).
+
+-   ENLACES A HREF DE PÁGINA DE COOKIES. N
+
+-   CAMBIO DE ENLACE LYNKTR.EE X (MyNenlaces). 
+
+-   CONEXIONES A PÁGINAS N DE COLOMBIA CON t&c, pOp.
+
+-   DISEÑO RESPOSIVE EN SCROOL A COOKIES PARA VOLVER.
+
+-   TAMAÑO Y VISUALIZACIÓN RESPONSIVA DESCUBIERTA EN MyNenlaces con COOKIES. (BANNER) 
+
+-   BOTÓN PARA RECHAZAR COOKIES.
+
+-   BASES DE CORREO PARA SUSCRIPTORES.
+
+-   OPTIMIZACIÓN DE IMAGEBES PARA CARGA.
+
+## [3.0.0] - 2026-07-15
+
+-   ACTUALIZACION EN LINEA. :)
+
+### Añadido
+
+-   
+
+### Modificado
+
+-   MAXWIDTH +972PX IMAGE: https://www.pexels.com/es-es/foto/cerrar-foto-de-un-panel-solar-8853509/
+
+-   MINWIDTH -972PX IMAGE: https://www.pexels.com/es-es/foto/paisaje-naturaleza-cielo-nubes-27637329/
+
+### Corregido
+
+-   
+
+###  Por Corregir
+
+-   LINK (AVISO COOKIES): 2.
+
+-   AUTOMATIZACIÓN DE CORREOS
+
+-   ADD Aviso Legal (o Información Legal), Política de Cookies, Términos y Condiciones de Contratación (o Condiciones Generales de Uso).
+
+-   ENLACES A HREF DE PÁGINA DE COOKIES. N
+
+-   CAMBIO DE ENLACE LYNKTR.EE X (MyNenlaces). 
+
+-   CONEXIONES A PÁGINAS N DE COLOMBIA CON t&c, pOp.
+
+-   DISEÑO RESPOSIVE EN SCROOL A COOKIES PARA VOLVER.
+
+-   TAMAÑO Y VISUALIZACIÓN RESPONSIVA DESCUBIERTA EN MyNenlaces con COOKIES. (BANNER) 
+
+-   BOTÓN PARA RECHAZAR COOKIES.
+
+-   BASES DE CORREO PARA SUSCRIPTORES.
+
+-   OPTIMIZACIÓN DE IMAGEBES PARA CARGA.
+
+## [3.0.0] - 2026-07-14
+
+-   ACTUALIZACION EN LINEA. :)
+
+### Añadido
+
+-   
+
+### Modificado
+
+-   TIEMPO DE ACTUALIZACIÓN.
+
+-   CONVERTIR EN N DE COLOMBIA-ENERGY.
+
+-   FONDO DE PAGINA A SOLAR ENERGY.
+
+### Corregido
+
+-   
+
+###  Por Corregir
+
+-   LINK (AVISO COOKIES): 2.
+
+-   AUTOMATIZACIÓN DE CORREOS
+
+-   ADD Aviso Legal (o Información Legal), Política de Cookies, Términos y Condiciones de Contratación (o Condiciones Generales de Uso).
+
+-   ENLACES A HREF DE PÁGINA DE COOKIES. N
+
+-   CAMBIO DE ENLACE LYNKTR.EE X (MyNenlaces). 
+
+-   CONEXIONES A PÁGINAS N DE COLOMBIA CON t&c, pOp.
+
+-   DISEÑO RESPOSIVE EN SCROOL A COOKIES PARA VOLVER.
+
+-   TAMAÑO Y VISUALIZACIÓN RESPONSIVA DESCUBIERTA EN MyNenlaces con COOKIES. (BANNER) 
+
+-   BOTÓN PARA RECHAZAR COOKIES.
+
+-   BASES DE CORREO PARA SUSCRIPTORES.
+
+-   OPTIMIZACIÓN DE IMAGEBES PARA CARGA.
+
+## [2.3.0] - 2026-05-06
+
+-   ACTUALIZACION EN LINEA. :)
+
+### Añadido
+
+-   
+
+### Modificado
+
+-   
+
+
+### Corregido
+
+-   
+
+###  Por Corregir
+
+-   LINK (AVISO COOKIES): 2.
+
+-   AUTOMATIZACIÓN DE CORREOS
+
+-   ADD Aviso Legal (o Información Legal), Política de Cookies, Términos y Condiciones de Contratación (o Condiciones Generales de Uso).
+
+-   ENLACES A HREF DE PÁGINA DE COOKIES. N
+
+-   CAMBIO DE ENLACE LYNKTR.EE X (MyNenlaces). 
+
+-   CONEXIONES A PÁGINAS N DE COLOMBIA CON t&c, pOp.
+
+-   DISEÑO RESPOSIVE EN SCROOL A COOKIES PARA VOLVER.
+
+-   TAMAÑO Y VISUALIZACIÓN RESPONSIVA DESCUBIERTA EN MyNenlaces con COOKIES. (BANNER) 
+
+-   BOTÓN PARA RECHAZAR COOKIES.
+
+-   BASES DE CORREO PARA SUSCRIPTORES.
+
+-   OPTIMIZACIÓN DE IMAGEBES PARA CARGA.
+
+## [2.3.0] - 2026-02-02
+
+-   ACTUALIZACION EN LINEA.
+
+### Añadido
+
+-   
+
+### Modificado
+
+-   texto script alert button n.
+
+
+### Corregido
+
+-   
+
+###  Por Corregir
+
+-   LINK (AVISO COOKIES): 2.
+
+-   AUTOMATIZACIÓN DE CORREOS
+
+-   ADD Aviso Legal (o Información Legal), Política de Cookies, Términos y Condiciones de Contratación (o Condiciones Generales de Uso).
+
+-   ENLACES A HREF DE PÁGINA DE COOKIES. N
+
+-   CAMBIO DE ENLACE LYNKTR.EE X (MyNenlaces). 
+
+-   CONEXIONES A PÁGINAS N DE COLOMBIA CON t&c, pOp.
+
+-   DISEÑO RESPOSIVE EN SCROOL A COOKIES PARA VOLVER.
+
+-   TAMAÑO Y VISUALIZACIÓN RESPONSIVA DESCUBIERTA EN MyNenlaces con COOKIES. (BANNER) 
+
+-   BOTÓN PARA RECHAZAR COOKIES.
+
+-   BASES DE CORREO PARA SUSCRIPTORES.
+
+-   OPTIMIZACIÓN DE IMAGEBES PARA CARGA.
+
 ## [2.3.0] - 2026-01-30
 
 -   ACTUALIZACION EN LINEA.
@@ -41,7 +301,7 @@
 
 -   BASES DE CORREO PARA SUSCRIPTORES.
 
--   OPTIMIZACIÓN DE IMAGENES PARA CARGA.
+-   OPTIMIZACIÓN DE IMAGEBES PARA CARGA.
 
 ## [2.3.0] - 2026-01-29
 
