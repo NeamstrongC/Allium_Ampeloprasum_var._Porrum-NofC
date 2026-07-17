@@ -1,0 +1,306 @@
+/*NEPTUNE - MENSAJE*/
+/**/
+/*IS-ALL.*/
+
+/*GOOGLE FONTS*/
+@import url('https://fonts.googleapis.com/css2?family=Pangolin&display=swap');
+/*END*/
+
+
+/* ========================================== */
+/*   ESTILOS ESENCIALES DEL PRELOADER         */
+/* ========================================== */
+
+/* Evita scroll molesto mientras carga la página de contacto */
+body.loading-active {
+    overflow: hidden !important;
+}
+
+#preloader {
+    position: fixed !important;
+    top: 0 !important;
+    left: 0 !important;
+    width: 100% !important;
+    height: 100vh !important;
+    background-color: #111111 !important; /* Mismo fondo oscuro */
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: center !important;
+    align-items: center !important;
+    z-index: 99999 !important; /* Por encima de todo el formulario */
+    transition: opacity 0.4s ease, visibility 0.4s ease !important;
+    opacity: 1;
+    visibility: visible;
+}
+
+/* El spinner circular animado */
+.spinner {
+    width: 60px !important;
+    height: 60px !important;
+    border: 6px solid rgba(255, 255, 255, 0.1) !important;
+    border-top: 6px solid #3831E6 !important; /* Azul del servidor */
+    border-radius: 50% !important;
+    animation: spinContacto 1s linear infinite !important;
+}
+
+/* Texto de carga */
+.loading-text {
+    margin-top: 25px !important;
+    color: #ffffff !important;
+    font-size: 1.2em !important;
+    font-weight: bold !important;
+    letter-spacing: 1px !important;
+}
+
+/* Clase de salida */
+#preloader.fade-out {
+    opacity: 0 !important;
+    visibility: hidden !important;
+}
+
+/* Animación de giro para esta sección */
+@keyframes spinContacto {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+/* ========================================== */
+
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 1.3em;
+    background-color: gray;
+    color: white;
+    line-height: 1.6;
+    font-family: 'Pangolin', cursive;
+    padding: 0 1.5em;
+}
+
+ul {
+    list-style: none;
+    padding: 1em;
+}
+
+/* CORREGIDO: Cambiado de span#enerqyqq a div#enerqyqq para coincidir con el HTML semántico */
+div#enerqyqq {
+    border-radius: 8px;
+    font-family: cursive; 
+    color: black;
+    background-color: white;
+    padding: 10px; /* Un poco de padding para que respire el texto interior */
+    display: block;
+}
+
+div.content {
+    margin-top: 20px;
+    position: relative;
+}
+
+h1.logo {
+    text-align: center;
+    font-size: 3em;
+    color: white;
+}
+
+h4.i {
+    padding: 0.5em;
+    font-size: 1.4em;
+}
+
+img.tune {
+    width: 2em;
+    height: 2em;
+    margin-top: 10px;
+    margin-left: 0;
+}
+
+a.freepik {
+    margin-bottom: 0;
+    border-radius: 8px;
+    background-color: white;
+    font-size: 0.6em;
+}
+
+/* ========================================== */
+/*   CORREGIDO: NUEVO DISEÑO DE BOTÓN PAISA   */
+/*   (Estilos unificados directamente al tag <a>) */
+/* ========================================== */
+div.paisa {
+    display: flex;
+    justify-content: flex-end; /* Lo empuja a la derecha */
+    margin-top: 15px;
+}
+
+a.paisa {
+    display: inline-block;
+    color: white;
+    font-size: 1.5em;
+    font-weight: bold;
+    text-decoration: none;
+    border: 2px solid pink;
+    background-color: blue;
+    padding: 10px 20px;
+    border-radius: 5px;
+    transition: all 0.3s ease;
+}
+
+a.paisa:hover {
+    color: red;
+    border-color: red;
+    background-color: darkblue;
+}
+/* ========================================== */
+
+/*COOKIES-START*/
+
+.fondo-aviso-cookies {
+    display: none;
+    background: rgba(0,0,0,.20);
+    position: fixed;
+    z-index: 99;
+    width: 100vw;
+    height: 100vh;
+    top: 0;
+    left: 0;
+}
+
+.fondo-aviso-cookies.activo {
+    display: block;
+}
+
+.aviso-cookies {
+    color: black;
+    display: none;
+    background: #F2F3F4;
+    padding: 20px;
+    width: calc(100% - 40px);
+    max-width: 300px;
+    line-height: 150%;
+    border-radius: 10px;
+    border: 3px solid blue;
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
+    z-index: 100;
+    padding-top: 55px;
+    box-shadow: 0px 2px 20px 10px rgba(222,222,222,.25);
+    text-align: center;
+}
+
+.aviso-cookies.activo {
+    display: block;
+}
+
+.aviso-cookies .galleta {
+    max-width: 100px;
+    position: absolute;
+    top: -50px;
+    left: calc(50% - 50px);
+}
+
+.aviso-cookies .titulo {
+    margin-bottom: 15px;
+}
+
+.aviso-cookies .parrafo {
+    margin-bottom: 15px;
+}
+
+.aviso-cookies .boton {
+    width: 100%;
+    background: #595959;
+    border: none;
+    color: #fff;
+    font-family: sans-serif;
+    text-align: center;
+    text-decoration: underline;
+    padding: 15px 20px;
+    cursor: pointer;
+    transition: .3s ease all;
+    border-radius: 5px;
+    margin-bottom: 15px;
+    font-size: 14px;
+}
+
+.aviso-cookies .boton:hover {
+    background: black;
+}
+
+.aviso-cookies .enlace {
+    color: blue;
+    text-decoration: none;
+    font-size: 0.8em;
+}
+
+.aviso-cookies .enlace:hover {
+    text-decoration: underline;
+}
+
+/*COOKIES-END*/
+
+/* CONTACT INFO */
+div#contact-infod {
+    border-radius: 8px;
+    border: 3px solid white;
+    color: black;
+    padding: 1px 1px 0 0;
+    background-color: pink;
+}
+
+div.contact-info {
+    border-radius: 8px;
+    border: 3px solid white;
+    background-color: grey;
+}
+
+.contact-info h4, .contact-info ul, .contact-info p {
+    text-align: center;
+    margin: 0 0 1rem 0;
+    text-decoration: underline;
+}
+
+strong.mm {
+    background-color: blue;
+    color: pink;
+    font-size: 1.50em;
+}
+
+/* LARGE SIZE */
+@media (max-width: 300px) {
+    body {
+        font-size: 15px;
+    }
+}
+
+@media (max-width: 450px) {
+    h1.logo {
+        font-size: 2em;
+    }
+}
+
+@media(min-width: 700px) {
+    body {
+        padding: 0 4em;
+    }
+    .contact-wrapper {
+        display: grid;
+        grid-template-columns: 2fr 1fr;
+    }
+    .contact-wrapper > * {
+        padding: 2em;
+    }
+    .contact-info h4,
+    .contact-info ul,
+    .contact-info p {
+        text-align: left;
+    }
+}
+
+@media(min-width: 1380px) {
+    h1.logo {
+        font-size: 4em;
+    }
+}
