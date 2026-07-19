@@ -8,7 +8,8 @@ function quitarPreloader() {
     const preloader = document.getElementById('preloader');
     const body = document.body;
 
-    if (preloader) {
+    // Evitamos ejecutar la lógica si el preloader ya se está ocultando o ya no está
+    if (preloader && !preloader.classList.contains('fade-out')) {
         // Agrega la clase de CSS para hacer el desvanecimiento (fade-out)
         preloader.classList.add('fade-out');
         
@@ -17,26 +18,22 @@ function quitarPreloader() {
             body.classList.remove('loading-active');
         }
         
-        // Oculta por completo el contenedor después de que termine la animación
+        // Oculta por completo el contenedor después de que termine la animación CSS (600ms es lo ideal)
         setTimeout(() => {
             preloader.style.display = 'none';
-        }, 2500);
+        }, 600);
     }
 }
 
-// Apaga el preloader cuando la página termina de cargar por completo (imágenes, scripts, etc.)
+// Controladores de eventos para apagar el preloader de forma segura
 window.addEventListener('load', quitarPreloader);
+window.addEventListener('pageshow', quitarPreloader); // Corrige el comportamiento al regresar con el botón "Atrás"
 
-// Apaga el preloader de inmediato al mostrar la página (soluciona el bloqueo al regresar con el botón Atrás)
-window.addEventListener('pageshow', (event) => {
-    quitarPreloader();
-});
-
-// Respaldo de seguridad extrema: Si algún recurso tarda de más, se apaga incondicionalmente a los 3 segundos
+// Respaldo de seguridad extrema: Si algún recurso pesado se traba, el preloader cae a los 3 segundos
 setTimeout(quitarPreloader, 3000);
 
 
-// --- 2. CONTROL DEL BANNER DE COOKIES ---
+// --- 2. CONTROL DEL BANNER DE COOKIES (COMPARTIDO ENTRE SITIOS) ---
 
 document.addEventListener('DOMContentLoaded', () => {
     const botonAceptarCookies = document.getElementById('btn-aceptar-cookies');
@@ -45,14 +42,20 @@ document.addEventListener('DOMContentLoaded', () => {
 
     window.dataLayer = window.dataLayer || [];
 
-    // Si no se han aceptado antes, muestra el aviso
-    if (!localStorage.getItem('cookies-aceptadas')) {
+    // Función auxiliar para leer cookies por su nombre
+    function obtenerCookie(nombre) {
+        const coincidencia = document.cookie.match(new RegExp('(^| )' + nombre + '=([^;]+)'));
+        return coincidencia ? coincidencia[2] : null;
+    }
+
+    // Comprobamos si la cookie global ya existe en alguno de tus sitios
+    if (!obtenerCookie('cookies-aceptadas-global')) {
         if (avisoCookies && fondoAvisoCookies) {
             avisoCookies.classList.add("activo");
             fondoAvisoCookies.classList.add("activo");
         }
     } else {
-        // Si ya estaban aceptadas, dispara el evento para Google Tag Manager
+        // Si ya existe, saltamos el banner e inyectamos el evento directamente a Tag Manager
         window.dataLayer.push({"event": "aceptadas-cookies"});
     }
 
@@ -63,7 +66,14 @@ document.addEventListener('DOMContentLoaded', () => {
                 avisoCookies.classList.remove("activo");
                 fondoAvisoCookies.classList.remove("activo");
             }
-            localStorage.setItem("cookies-aceptadas", "true");
+            
+            // Creamos la cookie con persistencia de 365 días
+            // "path=/" es vital para que se comparta en todo el dominio neamstrongc.github.io
+            const fechaExpiracion = new Date();
+            fechaExpiracion.setTime(fechaExpiracion.getTime() + (365 * 24 * 60 * 60 * 1000));
+            
+            document.cookie = "cookies-aceptadas-global=true; expires=" + fechaExpiracion.toUTCString() + "; path=/; SameSite=Lax";
+            
             window.dataLayer.push({"event": "aceptadas-cookies"});
         });
     }
@@ -81,7 +91,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 text: '.',
                 confirmButtonText: 'Entendido',
                 footer: 'N DE COLOMBIA.',
-                backdrop: 'true',
+                backdrop: true, // Corregido de string 'true' a booleano true
                 allowOutsideClick: false,
                 stopKeydownPropagation: false,
                 allowEscapeKey: false,
