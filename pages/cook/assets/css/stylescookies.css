@@ -258,24 +258,55 @@ button.dwl:hover {
 }
 
 /* ==========================================================================
-   7. PRELOADER INTEGRADO (SERVIDOR N)
+   7. BANNER DE CARGA (PRELOADER)
    ========================================================================== */
+
+/* Bloquea scroll con preloader activo */
+body.loading-active {
+    overflow: hidden;
+}
+
 #preloader {
     position: fixed;
     top: 0;
     left: 0;
     width: 100%;
-    height: 100%;
-    background-color: #000000;
+    height: 100vh;
+    background-color: #111111;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    z-index: 999999;
+    z-index: 99999;
     opacity: 1;
-    transition: opacity 0.5s ease;
+    visibility: visible;
+    transition: opacity 0.4s ease, visibility 0.4s ease;
+}
+
+/* Spinner circular con el color corporativo */
+.spinner {
+    width: 60px;
+    height: 60px;
+    border: 6px solid rgba(255, 255, 255, 0.1);
+    border-top: 6px solid #3831E6;
+    border-radius: 50%;
+    animation: spin 1s linear infinite;
+}
+
+.loading-text {
+    margin-top: 25px;
+    color: #ffffff;
+    font-size: 1.2rem;
+    font-weight: bold;
+    letter-spacing: 1px;
 }
 
 #preloader.fade-out {
     opacity: 0;
+    visibility: hidden;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
 }
