@@ -1,5 +1,49 @@
 # CHANGELOG
 
+## [3.0.0] - 2026-07-23
+
+-   ACTUALIZACION EN LINEA. :)
+
+### Añadido
+
+-   
+
+### Modificado
+
+-   Limpieza y orden conceptual: Los estilos están agrupados por áreas claras (Base, Preloader, Layout, Tipografía, Botones, Menús, Cookies, Responsive).
+
+-   Contención de ancho (max-width): En monitores grandes, section.home tiene un límite de ancho centrado (max-width: 1280px / 1500px), evitando que las líneas de texto se estiren demasiado de borde a borde.
+
+-   Escalado fluido en html: Se usa font-size: 100% en la base y las unidades rem en las clases. En pantallas de más de 1200px o 1600px, el html ajusta su escala de fuente automáticamente a 112.5% y 125% respectivamente, haciendo que todo el texto crezca proporcionalmente sin romper el diseño.
+
+### Corregido
+
+-   
+
+###  Por Corregir
+
+-   LINK (AVISO COOKIES): 2.
+
+-   AUTOMATIZACIÓN DE CORREOS
+
+-   ADD Aviso Legal (o Información Legal), Política de Cookies, Términos y Condiciones de Contratación (o Condiciones Generales de Uso).
+
+-   ENLACES A HREF DE PÁGINA DE COOKIES. N
+
+-   CAMBIO DE ENLACE LYNKTR.EE X (MyNenlaces). 
+
+-   CONEXIONES A PÁGINAS N DE COLOMBIA CON t&c, pOp.
+
+-   DISEÑO RESPOSIVE EN SCROOL A COOKIES PARA VOLVER.
+
+-   TAMAÑO Y VISUALIZACIÓN RESPONSIVA DESCUBIERTA EN MyNenlaces con COOKIES. (BANNER) 
+
+-   BOTÓN PARA RECHAZAR COOKIES.
+
+-   BASES DE CORREO PARA SUSCRIPTORES.
+
+-   FORMULARIO DE CONTACTO SSFV.
+
 ## [3.0.0] - 2026-07-21
 
 -   ACTUALIZACION EN LINEA. :)
