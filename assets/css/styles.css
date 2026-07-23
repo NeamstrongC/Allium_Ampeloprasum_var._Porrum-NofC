@@ -4,16 +4,24 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Pangolin&display=swap');
 
-/* --- Reseteo y Tipografía Base --- */
+/* ==========================================================================
+   1. RESETEO Y ESCALADO TIPOGRÁFICO BASE
+   ========================================================================== */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+html {
+    /* Define la base escalable (100% = ~16px por defecto) */
+    font-size: 100%; 
+}
+
 body {
     font-family: 'Pangolin', cursive;
-    font-size: 1rem;
+    font-size: 1rem; /* 16px base */
+    line-height: 1.5;
     width: 100%;
     min-height: 100vh;
     background-image: url('../images/pexels-cristian-rojas-8853509.jpg');
@@ -25,10 +33,8 @@ body {
 }
 
 /* ==========================================================================
-   1. BANNER DE CARGA (PRELOADER)
+   2. BANNER DE CARGA (PRELOADER)
    ========================================================================== */
-
-/* Bloquea scroll con preloader activo */
 body.loading-active {
     overflow: hidden;
 }
@@ -50,7 +56,6 @@ body.loading-active {
     transition: opacity 0.4s ease, visibility 0.4s ease;
 }
 
-/* Spinner circular con el color corporativo */
 .spinner {
     width: 60px;
     height: 60px;
@@ -63,7 +68,7 @@ body.loading-active {
 .loading-text {
     margin-top: 25px;
     color: #ffffff;
-    font-size: 1.2rem;
+    font-size: 1.25rem;
     font-weight: bold;
     letter-spacing: 1px;
 }
@@ -79,9 +84,8 @@ body.loading-active {
 }
 
 /* ==========================================================================
-   2. MAQUETACIÓN Y GRID (SECTIONS / FLEXBOX)
+   3. MAQUETACIÓN Y CONTENEDORES (FLEXBOX / LAYOUT)
    ========================================================================== */
-
 section.home {
     width: 100%;
     display: flex;
@@ -92,18 +96,17 @@ div.in-flex {
     margin-top: 20px;
     flex: 1;
     padding: 25px;
-    min-width: 250px;
+    min-width: 280px;
 }
 
 .in-flex:first-child {
     flex: 2;
     padding: 25px;
-    background-color: transparent; /* Corregido: 'none' cambiado por 'transparent' */
-    margin: 20px;
-    margin-bottom: 0px;
+    background-color: transparent;
+    margin: 20px 20px 0 20px;
 }
 
-/* Estilización de cajas internas */
+/* Cajas internas principales */
 .in-flex div {
     background-color: pink;
     border: 6px solid blue;
@@ -111,32 +114,30 @@ div.in-flex {
     margin: 20px;
 }
 
-div.mini {
-    color: green;
-    background-color: pink;
-    border: 6px solid blue;
-    padding: 0.220em;
-}
-
 div#lokillo {
     background-color: pink;
     border: 6px solid blue;
     margin: 7px;
-    padding: 2px;
+    padding: 15px;
 }
 
-div#lokillo h1 {
-    color: blue;
+div.mini {
+    color: green;
+    background-color: pink;
+    border: 6px solid blue;
+    padding: 12px;
 }
 
 /* ==========================================================================
-   3. TIPOGRAFÍAS Y DECORACIONES
+   4. TIPOGRAFÍA, ENCABEZADOS Y TEXTO
    ========================================================================== */
-
 h1 {
     font-size: 2rem;
-    margin: 5px;
-    margin-top: 1em;
+    margin: 5px 5px 10px 5px;
+}
+
+#lokillo h1 {
+    color: blue;
 }
 
 h4 {
@@ -144,17 +145,23 @@ h4 {
     background-color: white;
     text-align: center;
     color: black;
-    padding: 5px 0;
+    padding: 8px 0;
 }
 
 p {
     margin: 5px;
-    font-size: 1rem;
+    font-size: 1.05rem; /* ~17px */
+}
+
+p.tittle {
+    color: white;
+    font-size: 1.2rem;
 }
 
 span#tittle {
     color: white;
     background-color: #0014A8;
+    padding: 2px 6px;
 }
 
 p.orign {
@@ -162,14 +169,12 @@ p.orign {
     padding: 2px;
 }
 
-p.tittle {
-    color: white;
-}
-
+/* Destacados en negrita */
 b.number {
     color: white;
     background-color: black;
     text-decoration: underline;
+    padding: 0 4px;
 }
 
 b.id {
@@ -178,7 +183,7 @@ b.id {
 }
 
 b.mom {
-    padding: 2px;
+    padding: 2px 4px;
     text-decoration: underline;
     border-radius: 4px;
     color: white;
@@ -189,20 +194,22 @@ b.nden {
     color: blue;
 }
 
-/* Fechas de actualización */
-span.dateup {
+b.artist2 {
+    color: blue;
+}
+
+/* Fechas y firmas */
+span.dateup,
+span.datedown {
     font-weight: bold;
     color: black;
     background-color: white;
-    font-size: 0.8rem;
+    font-size: 0.9rem;
+    padding: 2px 4px;
 }
 
 span.datedown {
-    font-weight: bold;
     text-decoration: underline;
-    color: black;
-    background-color: white;
-    font-size: 0.8rem;
 }
 
 b.datc {
@@ -210,7 +217,7 @@ b.datc {
 }
 
 span.dev {       
-    font-size: 0.8rem;
+    font-size: 0.85rem;
     font-weight: bold;
     margin-top: 10%;
 }
@@ -220,24 +227,20 @@ a.artist {
     font-weight: bold;
     color: black;
     text-decoration: none;
+    transition: background-color 0.2s ease;
 }
 
 a.artist:hover {
-    padding: 1px;
+    padding: 1px 4px;
     background-color: white;
-    border: 3px solid black;
+    border: 2px solid black;
     border-radius: 3px;
     cursor: pointer;
 }
 
-b.artist2 {
-    color: blue;
-}
-
 /* ==========================================================================
-   4. ELEMENTOS INTERACTIVOS (BOTONES Y ENLACES)
+   5. BOTONES Y ACCIONES INTERACTIVAS
    ========================================================================== */
-
 #botonAlerta {
     border: 3px solid #3831E6;
     text-decoration: underline;
@@ -245,20 +248,21 @@ b.artist2 {
     background-color: whitesmoke;
     padding: 12px 24px;
     font-weight: bold;
-    font-size: 1rem;
+    font-size: 1.05rem;
     cursor: pointer;
     font-family: 'Pangolin', cursive;
+    transition: all 0.2s ease;
 }
 
 #botonAlerta:hover {
-    border: 3px solid blue;
-    color: #fff;
+    border-color: blue;
+    color: #ffffff;
     background-color: grey;
 }
 
 a.adhesivashop {
-    padding: 5px;
-    border-radius: 8px; /* Corregido: '8pxs' cambiado por '8px' */
+    padding: 5px 10px;
+    border-radius: 8px;
     font-weight: bold;
     color: white;
     background-color: blue;
@@ -273,16 +277,15 @@ a.POP {
 
 a.POP:hover {
     color: #595959;
-    padding: 1px;
+    padding: 1px 4px;
     background-color: white;
     border: 3px solid black;
     border-radius: 3px;
 }
 
 /* ==========================================================================
-   5. ÍCONOS, IMÁGENES Y MENÚS
+   6. ÍCONOS, IMÁGENES Y MENÚS EN LISTA
    ========================================================================== */
-
 img.code {
     margin: 8px;
     border: 3px solid blue;
@@ -291,14 +294,15 @@ img.code {
 
 div.icons {
     padding: 2px;
-    height: 30px;
+    height: auto;
 }
 
 img.icons {
-    width: 1.9em;
-    height: 1.9em;
+    width: 2.2em;
+    height: 2.2em;
     margin-top: 0.2em;
     margin-left: 0.5em;
+    vertical-align: middle;
 }
 
 img.iconst {
@@ -311,6 +315,7 @@ img.iconst {
 ul.icons {
     border-radius: 8px;
     border: 3px solid white;
+    padding: 10px;
 }
 
 li.redes {
@@ -320,7 +325,8 @@ li.redes {
     align-items: center;
     background-color: blue;
     color: white;
-    font-size: 0.9rem;
+    font-size: 0.95rem;
+    padding: 2px 6px;
 }
 
 ul.rh {
@@ -328,8 +334,8 @@ ul.rh {
 }
 
 img.tune {
-    width: 2em;
-    height: 2em;
+    width: 2.2em;
+    height: 2.2em;
     margin-top: 10px;
     margin-left: 0;
 }
@@ -338,9 +344,9 @@ a.freepik {
     margin-bottom: 0;
     border-radius: 8px;
     background-color: white;
-    font-size: 0.6rem;
+    font-size: 0.75rem;
     text-decoration: none;
-    padding: 2px 5px;
+    padding: 3px 6px;
 }
 
 li.nn {
@@ -348,12 +354,11 @@ li.nn {
 }
 
 /* ==========================================================================
-   6. SECCIÓN DE AVISO DE COOKIES
+   7. AVISO DE COOKIES Y MODAL
    ========================================================================== */
-
 .fondo-aviso-cookies {
     display: none;
-    background: rgba(0, 0, 0, 0.20);
+    background: rgba(0, 0, 0, 0.40);
     position: fixed;
     z-index: 99;
     width: 100vw;
@@ -371,8 +376,8 @@ li.nn {
     background: #F2F3F4;
     padding: 20px;
     width: calc(100% - 40px);
-    max-width: 300px;
-    line-height: 150%;
+    max-width: 320px;
+    line-height: 1.5;
     border-radius: 10px;
     border: 3px solid blue;
     position: fixed;
@@ -380,7 +385,7 @@ li.nn {
     left: 20px;
     z-index: 100;
     padding-top: 55px;
-    box-shadow: 0px 2px 20px 10px rgba(222, 222, 222, 0.25);
+    box-shadow: 0px 2px 20px 10px rgba(0, 0, 0, 0.25);
     text-align: center;
 }
 
@@ -401,7 +406,7 @@ li.nn {
 }
 
 .aviso-cookies .parrafo {
-    font-size: 0.85rem;
+    font-size: 0.9rem;
     margin-bottom: 15px;
 }
 
@@ -413,12 +418,12 @@ li.nn {
     font-family: sans-serif;
     text-align: center;
     text-decoration: underline;
-    padding: 15px 20px;
+    padding: 12px 20px;
     cursor: pointer;
     transition: 0.3s ease all;
     border-radius: 5px;
     margin-bottom: 15px;
-    font-size: 14px;
+    font-size: 0.95rem;
 }
 
 .aviso-cookies .boton:hover {
@@ -428,7 +433,7 @@ li.nn {
 .aviso-cookies .enlace {
     color: blue;
     text-decoration: none;
-    font-size: 0.8rem;
+    font-size: 0.85rem;
 }
 
 .aviso-cookies .enlace:hover {
@@ -436,33 +441,63 @@ li.nn {
 }
 
 /* ==========================================================================
-   7. RESPONSIVE / MEDIA QUERIES
+   8. MEDIA QUERIES (RESPONSIVE & PANTALLAS GRANDES)
    ========================================================================== */
 
-/* Dispositivos muy pequeños */
+/* Dispositivos Móviles Pequeños (<= 435px) */
 @media screen and (max-width: 435px) {
     .aviso-cookies {
         width: calc(100% - 40px);
-        max-width: 200px;
+        max-width: 240px;
         padding-top: 55px;
     }
+    
     b.mom {
         background-color: #444DDE;
     }
 }
 
-/* Pantallas grandes (Escritorio) */
-@media screen and (min-width: 800px) {
-    body {
-        font-size: 1.25rem; /* Ajustado para un escalado más natural que 1.6em */
-    }
-}
-
-/* Adaptación de Fondo en móviles */
+/* Orientación Móvil Vertical (<= 822px) */
 @media screen and (max-width: 822px) {
     body#mm { 
         background-size: cover;
         background-image: url('../images/VERTICALPANELS.jpg');
         background-repeat: no-repeat;
+    }
+}
+
+/* ESCRITORIO Y MONITORES MEDIANOS (>= 1200px) */
+@media screen and (min-width: 1200px) {
+    html {
+        font-size: 112.5%; /* Sube la base general a ~18px */
+    }
+
+    /* Limita el ancho del contenido para que el texto no sea tan ancho */
+    section.home {
+        max-width: 1280px;
+        margin: 0 auto;
+    }
+
+    h1 {
+        font-size: 2.2rem;
+    }
+
+    h4 {
+        font-size: 1.35rem;
+    }
+}
+
+/* MONITORES GRANDES Y PANTALLAS 2K+ (>= 1600px) */
+@media screen and (min-width: 1600px) {
+    html {
+        font-size: 125%; /* Sube la base general a ~20px */
+    }
+
+    section.home {
+        max-width: 1500px;
+    }
+
+    h1 {
+        font-size: 2.5rem;
     }
 }
