@@ -10,7 +10,7 @@
 
 ### Modificado
 
--   eliminadas seccion contact M. security 
+-   ELIMIMADA: SECCIÓN M TEMPORALMENTE CONTACT, FOR SECURITY.
 
 ### Corregido
 
