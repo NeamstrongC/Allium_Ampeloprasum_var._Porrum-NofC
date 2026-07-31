@@ -18,6 +18,8 @@
 
 ###  Por Corregir
 
+-   DESCRIPTION HTML"COOKIES".
+
 -   LINK (AVISO COOKIES): 2.
 
 -   AUTOMATIZACIÓN DE CORREOS
