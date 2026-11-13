@@ -24,7 +24,7 @@ body {
     line-height: 1.5;
     width: 100%;
     min-height: 100vh;
-    background-image: url('../images/USI1.jpg');
+    background-image: url('../images/USI1.webp');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -461,7 +461,7 @@ li.nn {
 @media screen and (max-width: 822px) {
     body#mm { 
         background-size: cover;
-        background-image: url('../images/VERTICALPANELS.jpg');
+        background-image: url('../images/VERTICALPANELS.webp');
         background-repeat: no-repeat;
     }
 }
