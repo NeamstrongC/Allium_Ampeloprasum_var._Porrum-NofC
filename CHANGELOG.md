@@ -1,5 +1,47 @@
 # CHANGELOG
 
+## [3.0.1] - 2026-11-13
+
+-   ACTUALIZACION EN LINEA. :)
+
+### Añadido
+
+-   
+
+### Modificado
+
+-   IMAGEN FONDO VERTICAL HORIZONTAL Y OPTIMIZACIÓN A WEBp.            
+
+### Corregido
+
+-   
+
+###  Por Corregir
+
+-   DESCRIPTION HTML"COOKIES".
+
+-   LINK (AVISO COOKIES): 2.
+
+-   AUTOMATIZACIÓN DE CORREOS
+
+-   ADD Aviso Legal (o Información Legal), Política de Cookies, Términos y Condiciones de Contratación (o Condiciones Generales de Uso).
+
+-   ENLACES A HREF DE PÁGINA DE COOKIES. N
+
+-   CAMBIO DE ENLACE LYNKTR.EE X (MyNenlaces). 
+
+-   CONEXIONES A PÁGINAS N DE COLOMBIA CON t&c, pOp.
+
+-   DISEÑO RESPOSIVE EN SCROOL A COOKIES PARA VOLVER.
+
+-   TAMAÑO Y VISUALIZACIÓN RESPONSIVA DESCUBIERTA EN MyNenlaces con COOKIES. (BANNER) 
+
+-   BOTÓN PARA RECHAZAR COOKIES.
+
+-   BASES DE CORREO PARA SUSCRIPTORES.
+
+-   FORMULARIO DE CONTACTO SSFV.
+
 ## [3.0.1] - 2026-09-15
 
 -   ACTUALIZACION EN LINEA. :)
