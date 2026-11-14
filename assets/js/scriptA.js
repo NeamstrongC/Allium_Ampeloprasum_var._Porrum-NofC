@@ -88,7 +88,7 @@ document.addEventListener('DOMContentLoaded', function () {
         boton.addEventListener('click', function () {
             Swal.fire({
                 title: '¡N SERVERS!',
-                text: 'GRACIAS. :)',
+                text: 'Estamos preparando esta página web para convertirla en una plataforma de acceso publico commo servidor N. El propósito es transformar esto en una herramienta electrica util y accesible para todos. ENERGY FOR ALLS. :)',
                 confirmButtonText: 'Entendido',
                 footer: 'N DE COLOMBIA.',
                 backdrop: true, // Corregido de string 'true' a booleano true
